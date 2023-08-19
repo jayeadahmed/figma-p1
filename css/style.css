@@ -1,0 +1,100 @@
+/*fonts link*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&family=Poppins:wght@400;500;700&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*common text start*/
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+/*common text end*/
+
+/*header start*/
+header{
+    background-color: #F0FFF0;
+    padding: 15px 0;
+}
+.c_nav{
+    
+}
+.logo{}
+.e_scl{
+    display: inline-flex;
+    color: #56548C;
+    font-weight: 700;
+    padding: 5px;
+    width: 120px;
+    height: 30px;
+}
+.memu{}
+.memu ul li a{
+    padding: 0 20px !important;
+    color: #000 !important;
+}
+.memu ul li a:hover{
+    color: #21B573 !important;
+}
+.btn_com{
+    font-family: 'Roboto', sans-serif;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn_sing{
+    /*padding: 12px 28px;*/
+    width: 105px;
+    height: 45px;
+    margin-left: 15px;
+}
+.btn_com:hover{
+    background-color: #282531;
+}
+.btn_com:active{
+    background-color: #282531 !important;
+}
+/*header end*/
+
+/*bunner start*/
+.bunner{
+   
+        background-color: #F0FFF0;
+        padding: 15px 0;
+    
+}
+
+
+.b_p1{
+    color: red;
+}
+
+.b_h1{
+margin: 10px 0 20px;
+color: #000;
+font-size: 48px;
+font-weight: 700;
+line-height: 70px; 
+padding:0 35px 0 0;
+}
+.b_h1 spen{
+    color: #21B573;
+}
+.b_p2{
+padding: 0 50px 0 0;
+line-height: 36px;
+}
+
+.b_img img{}
+
+.btn_link{
+    margin-top: 15px;
+    width: 150px;
+    height: 45px;
+}
+
+.b_img{}
+.
